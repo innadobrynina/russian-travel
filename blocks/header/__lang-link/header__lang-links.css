@@ -4,10 +4,19 @@
     vertical-align: bottom;
     text-align: start;
     white-space: nowrap;
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 834fe05c38e76a42a2f5ba2e2d0a5742d6bde58c
     margin-top: 46px;
 }
 @media screen and (max-width: 767px){
     .header__lang-links {
         margin-top: 30px;
     }
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> 1f8700a3d348189116c9919771b3ffe6a9215127
+>>>>>>> 834fe05c38e76a42a2f5ba2e2d0a5742d6bde58c
 }
