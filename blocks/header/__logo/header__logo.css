@@ -2,12 +2,18 @@
   max-width: 176px;
   height: 52px;
   display: block;
+<<<<<<< HEAD
   margin-top: 28px;
+=======
+>>>>>>> 1f8700a3d348189116c9919771b3ffe6a9215127
 }
 
 @media screen and (max-width: 320px){
   .header__logo {
     max-width: 142px;
+<<<<<<< HEAD
     margin-top: 16px;
+=======
+>>>>>>> 1f8700a3d348189116c9919771b3ffe6a9215127
   }
 }
