@@ -6,7 +6,11 @@
     font-size: 72px;
     line-height: 76px;
     color: #FFFFFF;
+<<<<<<< HEAD
     margin: 0;
+=======
+    margin: 0;   
+>>>>>>> c1409a3d6b4e3d422ec3b64da5c5fdf55e7e21b5
     justify-self: left;
     align-items:flex-end; 
 }
