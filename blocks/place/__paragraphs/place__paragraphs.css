@@ -1,0 +1,12 @@
+.place__paragraphs {
+    max-width:484px;
+    height: auto;
+    justify-self: left;
+    margin: 0;
+}
+
+@media screen and (max-width: 767px) {
+    .place__paragraphs {
+       margin: 0 16px;  
+    }
+}
