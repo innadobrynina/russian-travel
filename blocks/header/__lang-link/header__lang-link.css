@@ -6,6 +6,7 @@
     font-size: 24px;
     line-height: 28px;
     width: 29px;
+<<<<<<< HEAD
     height: 28px;
     margin: 0 18px 0 0;
 }
@@ -13,6 +14,22 @@
 .header__lang-link:nth-last-child(1) {
     text-decoration-line: none;
     margin: 0;
+=======
+    height:28px;
+    margin: 0 18px 0 0;
+}
+
+.header__lang-link:nth-last-child(1){
+    text-decoration-line: none;
+    margin: 0;
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 834fe05c38e76a42a2f5ba2e2d0a5742d6bde58c
+>>>>>>> c1409a3d6b4e3d422ec3b64da5c5fdf55e7e21b5
+>>>>>>> 83b20881e3ce8bc3532aa6017c3bcb2c0256fa42
 }
 
 .header__lang-link:hover {
@@ -20,9 +37,25 @@
     transition: .3s ease;
 }
 
+<<<<<<< HEAD
 @media screen and (max-width: 767px) {
     .header__lang-link {
         font-size: 18px;
         line-height: 20px;
     }
+=======
+@media screen and (max-width: 767px){
+    .header__lang-link{
+        font-size: 18px;
+        line-height: 20px;
+    }
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> 1f8700a3d348189116c9919771b3ffe6a9215127
+>>>>>>> 834fe05c38e76a42a2f5ba2e2d0a5742d6bde58c
+>>>>>>> c1409a3d6b4e3d422ec3b64da5c5fdf55e7e21b5
+>>>>>>> 83b20881e3ce8bc3532aa6017c3bcb2c0256fa42
 }
