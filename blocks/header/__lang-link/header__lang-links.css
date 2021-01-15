@@ -1,0 +1,7 @@
+.header__lang-links {
+    max-width: 100%;
+    display: inline-block;
+    vertical-align: bottom;
+    text-align: start;
+    white-space: nowrap;
+}
