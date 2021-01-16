@@ -1,3 +1,10 @@
+<<<<<<< HEAD
+=======
+@import url(../intro/__title/intro__title.css);
+@import url(../intro/__text/intro__text.css);
+@import url(../intro/__list/intro__list.css);
+
+>>>>>>> 268c9da735902c0d9e59549cf6f19e87907c48d1
 .intro {
     max-width: 690px;
     display: flex;
@@ -6,23 +13,41 @@
     margin: 92px 442px 92px 148px;
 }
 
+<<<<<<< HEAD
 @media screen and (max-width: 1279px) {
     .intro {
         width: 690px;
+=======
+@media screen and (max-width: 1279px){
+    .intro {
+        max-width: 690px;
+>>>>>>> 268c9da735902c0d9e59549cf6f19e87907c48d1
         margin: 92px 286px 92px 48px;
     }
 }
 
+<<<<<<< HEAD
 @media screen and (max-width: 1023px) {
     .intro {
         width: 720px;
+=======
+@media screen and (max-width: 1023px){
+    .intro {
+        max-width: 720px;
+>>>>>>> 268c9da735902c0d9e59549cf6f19e87907c48d1
         margin: 88px 24px;
     }
 }
 
+<<<<<<< HEAD
 @media screen and (max-width: 767px) {
     .intro {
         width: 288px;
+=======
+@media screen and (max-width: 767px){
+    .intro {
+        max-width: 288px;
+>>>>>>> 268c9da735902c0d9e59549cf6f19e87907c48d1
         margin: 64px 16px;
     }
 }

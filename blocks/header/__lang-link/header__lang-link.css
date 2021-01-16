@@ -1,12 +1,27 @@
 .header__lang-link {
+<<<<<<< HEAD
+=======
+    text-decoration-line: underline;
+>>>>>>> 268c9da735902c0d9e59549cf6f19e87907c48d1
     color: #FFFFFF;
     font-style: normal;
     font-weight: normal;
     font-size: 24px;
     line-height: 28px;
+<<<<<<< HEAD
     max-width: 29px;
     min-height: 28px;
     margin-left: 18px;
+=======
+    width: 29px;
+    height: 28px;
+    margin: 0 18px 0 0;
+}
+
+.header__lang-link:nth-last-child(1) {
+    text-decoration-line: none;
+    margin: 0;
+>>>>>>> 268c9da735902c0d9e59549cf6f19e87907c48d1
 }
 
 .header__lang-link:hover {

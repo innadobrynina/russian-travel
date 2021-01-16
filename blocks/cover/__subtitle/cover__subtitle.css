@@ -1,12 +1,17 @@
 .cover__subtitle {
     max-width: 360px;
+<<<<<<< HEAD
     min-height: 66px;
+=======
+    height: 66px;
+>>>>>>> 268c9da735902c0d9e59549cf6f19e87907c48d1
     font-weight: normal;
     font-size: 18px;
     line-height: 22px;
     text-align: center;
     color: #FFFFFF;
 }
+<<<<<<< HEAD
 
 @media screen and (min-width: 1280px) {
     .cover__subtitle {
@@ -35,3 +40,33 @@
         line-height: 16px;
     }
 }
+=======
+@media screen and (min-width: 1280px) {
+  .cover__subtitle {
+    margin: 0 412px 245px;
+  }
+}
+
+@media screen and (max-width: 1279px) {
+  .cover__subtitle {
+    margin: 0 332px 195px;
+  }
+}
+
+@media screen and (max-width: 1023px) {
+  .cover__subtitle {
+    margin: 0 204px 115px;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .cover__subtitle {
+    margin: 0 16px 33px;
+    max-width: 288px;
+    height: 48px;
+    font-size: 14px;
+    line-height: 16px;
+  }
+}
+
+>>>>>>> 268c9da735902c0d9e59549cf6f19e87907c48d1

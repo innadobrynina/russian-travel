@@ -1,4 +1,5 @@
 .footer__copyright {
+<<<<<<< HEAD
     max-width: 186px;
     min-height: 16px;
     color: #FFFFFF;
@@ -6,6 +7,18 @@
     line-height: 16px;
     margin: 0;
     text-align: right;
+=======
+max-width: 186px;
+height: 16px;
+display: flex;
+flex-direction: column;
+justify-content: space-between;
+color: #FFFFFF;
+font-size: 14px;
+line-height: 16px;
+margin: 0;
+text-align: right;
+>>>>>>> 268c9da735902c0d9e59549cf6f19e87907c48d1
 }
 
 @media screen and (max-width: 767px) {

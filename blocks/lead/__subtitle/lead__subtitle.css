@@ -1,4 +1,5 @@
 .lead__subtitle {
+<<<<<<< HEAD
     max-width: 640px;
     margin: 32px auto 0;
     font-weight: normal;
@@ -17,3 +18,21 @@
         min-height: 40px;
     }
 }
+=======
+  max-width: 640px;
+  margin: 32px auto 0;
+  font-weight: normal;
+  font-size: 30px;
+  line-height: 36px;
+  text-align: center;
+  color: #ffffff;
+}
+
+@media screen and (max-width: 767px) {
+  .lead__subtitle {
+    max-width: 280px;
+    font-size: 16px;
+    line-height: 20px;
+  }
+}
+>>>>>>> 268c9da735902c0d9e59549cf6f19e87907c48d1

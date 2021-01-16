@@ -1,3 +1,12 @@
+<<<<<<< HEAD
+=======
+@import url(../lead/__title/lead__title.css);
+@import url(../lead/__subtitle/lead__subtitle.css);
+@import url(../lead/__image/lead__image.css);
+@import url(../lead/__caption/lead__caption.css);
+@import url(../lead/__figure/lead__figure.css);
+
+>>>>>>> 268c9da735902c0d9e59549cf6f19e87907c48d1
 .lead {
     max-width: 984px;
     margin: 56px auto 0;
@@ -9,6 +18,7 @@
 
 @media screen and (max-width: 1279px) {
     .lead {
+<<<<<<< HEAD
         width: 928px;
         margin: 48px auto 0;
     }
@@ -25,5 +35,21 @@
     .lead {
         width: 320px;
         margin: 48px 0 0;
+=======
+        max-width: 928px;
+    }
+}
+
+
+@media screen and (max-width: 1023px){
+    .lead {
+        max-width: 768px;
+    }
+}
+
+@media screen and (max-width: 767px){
+    .lead {
+        max-width: 320px;
+>>>>>>> 268c9da735902c0d9e59549cf6f19e87907c48d1
     }
 }

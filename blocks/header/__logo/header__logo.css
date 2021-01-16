@@ -1,12 +1,22 @@
 .header__logo {
     max-width: 176px;
     height: 52px;
+<<<<<<< HEAD
+=======
+    display: block;
+    margin-top: 28px;
+>>>>>>> 268c9da735902c0d9e59549cf6f19e87907c48d1
 }
 
 @media screen and (max-width: 767px) {
     .header__logo {
+<<<<<<< HEAD
         width: 142px;
         height: 42px;
         margin: 0;
+=======
+        max-width: 142px;
+        margin-top: 16px;
+>>>>>>> 268c9da735902c0d9e59549cf6f19e87907c48d1
     }
 }

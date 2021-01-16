@@ -1,4 +1,5 @@
 .lead__title {
+<<<<<<< HEAD
     max-width: 720px;
     margin: 0 auto;
     font-weight: 900;
@@ -15,3 +16,21 @@
         line-height: 44px;
     }
 }
+=======
+  max-width: 720px;
+  margin: 0 auto;
+  font-weight: 900;
+  font-size: 96px;
+  line-height: 100px;
+  text-align: center;
+  color: #ffffff;
+}
+
+@media screen and (max-width: 767px) {
+  .lead__title {
+    max-width: 288px;
+    font-size: 40px;
+    line-height: 44px;
+  }
+}
+>>>>>>> 268c9da735902c0d9e59549cf6f19e87907c48d1

@@ -3,6 +3,7 @@
     font-size: 16px;
     line-height: 163%;
     color: white;
+<<<<<<< HEAD
     max-width: 690px;
 }
 
@@ -31,4 +32,28 @@
         width: 288px;
         margin: 40px 0 34px;
     }
+=======
+    margin: 40px 0 33px;
+    max-width: 690px;
+}
+
+@media screen and (max-width: 1279px){
+    .intro__text {
+        max-width: 100%;
+    }
+}
+
+@media screen and (max-width: 1023px){
+    .intro__text {
+        max-width: 720px;
+        margin: 34px 0 64px;
+    }
+}
+
+@media screen and (max-width: 767px){
+    .intro__text {
+        max-width: 288px;
+        margin: 40px 0 33px;
+    }
+>>>>>>> 268c9da735902c0d9e59549cf6f19e87907c48d1
 }

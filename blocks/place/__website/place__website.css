@@ -1,10 +1,20 @@
+<<<<<<< HEAD
 .place__website {
     max-width: 456px;
     min-height: 46px;
+=======
+@import url(../__website/__url-heading/place__website__url-heading.css);
+@import url(../__website/__link/place__website__link.css);
+
+.place__website {
+    max-width: 456px;
+    height: 46px;
+>>>>>>> 268c9da735902c0d9e59549cf6f19e87907c48d1
     display: flex;
     flex-direction: column;
     justify-content: flex-end;
     align-items: flex-start;
+<<<<<<< HEAD
     margin: 110px auto 0 0;
 }
 
@@ -13,11 +23,27 @@
         width: 352px;
         margin: 73px auto 0 0;
     }
+=======
+    margin: 106px auto 0 0;
+} 
+
+@media screen and (max-width: 1023px) {
+    .place__website {
+       max-width: 352px;
+       margin: 46px auto 0 0;
+    } 
+>>>>>>> 268c9da735902c0d9e59549cf6f19e87907c48d1
 }
 
 @media screen and (max-width: 767px) {
     .place__website {
+<<<<<<< HEAD
         width: 288px;
         margin: 0 16px;
     }
+=======
+       max-width: 288px;
+       margin: 0 16px;
+    } 
+>>>>>>> 268c9da735902c0d9e59549cf6f19e87907c48d1
 }

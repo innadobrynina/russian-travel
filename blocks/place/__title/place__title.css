@@ -1,7 +1,11 @@
 .place__title {
     max-width: 460px;
     display: flex;
+<<<<<<< HEAD
     min-height: 152px;
+=======
+    height: 152px;
+>>>>>>> 268c9da735902c0d9e59549cf6f19e87907c48d1
     font-weight: 900;
     font-size: 72px;
     line-height: 76px;
@@ -13,7 +17,11 @@
 
 @media screen and (max-width: 1280px) {
     .place__title {
+<<<<<<< HEAD
         width: 440px;
+=======
+        max-width: 440px;
+>>>>>>> 268c9da735902c0d9e59549cf6f19e87907c48d1
         height: 100%;
     }
 }
@@ -22,17 +30,29 @@
     .place__title {
         font-size: 42px;
         line-height: 46px;
+<<<<<<< HEAD
         width: 340px;
         min-height: 92px;
+=======
+        max-width: 340px;
+        height: 92px;
+>>>>>>> 268c9da735902c0d9e59549cf6f19e87907c48d1
     }
 }
 
 @media screen and (max-width: 767px) {
     .place__title {
+<<<<<<< HEAD
         width: 288px;
         font-size: 32px;
         line-height: 35px;
         min-height: 35px;
+=======
+        max-width: 288px;
+        font-size: 32px;
+        line-height: 35px;
+        height: 35px;
+>>>>>>> 268c9da735902c0d9e59549cf6f19e87907c48d1
         margin: 0 16px;
     }
 }

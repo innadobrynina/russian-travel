@@ -5,6 +5,7 @@
     color: white;
     max-width: 484px;
     height: auto;
+<<<<<<< HEAD
     margin: 0 0 26px;
 }
 
@@ -29,4 +30,31 @@
     .place__paragraph {
         width: 288px;
     }
+=======
+    margin:0 0 26px;
+}
+
+.place__paragraph:nth-last-child(1){
+    margin:0;
+}
+
+@media screen and (max-width: 1280px) {
+    .place__paragraph {
+       max-width: 456px;   
+    }
+}
+
+@media screen and (max-width: 1024px) {
+    .place__paragraph {
+       max-width: 352px;
+       font-size: 16px;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .place__paragraph {
+       max-width: 352px;
+       font-size: 16px;
+    }  
+>>>>>>> 268c9da735902c0d9e59549cf6f19e87907c48d1
 }

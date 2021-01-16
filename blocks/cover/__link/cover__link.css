@@ -1,6 +1,7 @@
 .cover__link {
     text-decoration: none;
     color: white;
+<<<<<<< HEAD
     position: relative;
     z-index: 3;
     text-align: center;
@@ -32,3 +33,6 @@
         min-height: 200px;
     }
 }
+=======
+  }
+>>>>>>> 268c9da735902c0d9e59549cf6f19e87907c48d1

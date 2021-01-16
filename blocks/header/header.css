@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .header {
     max-width: 1184px;
     margin: 28px 48px 0;
@@ -14,11 +15,32 @@
 @media screen and (max-width: 1279px) {
     .header {
         width: 928px;
+=======
+@import url(../header/__logo/header__logo.css);
+@import url(../header/__lang-link/header__lang-links.css);
+@import url(../header/__lang-link/header__lang-link.css);
+
+.header {
+    text-align: right;
+    width: 1184px;
+    height: 52px;
+    margin: 0 48px;
+    padding-top: 28px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+@media screen and (max-width: 1279px){
+    .header {
+        max-width: 928px;
+>>>>>>> 268c9da735902c0d9e59549cf6f19e87907c48d1
     }
 }
 
 @media screen and (max-width: 1023px) {
     .header {
+<<<<<<< HEAD
         width: 720px;
         margin: 28px 24px 0;
     }
@@ -30,3 +52,16 @@
         margin: 16px 16px 0;
     }
 }
+=======
+        max-width: 720px;
+    }
+}
+
+@media screen and (max-width: 767px){
+    .header {
+        max-width: 288px;
+        margin:0;
+        padding:0;
+    }
+}
+>>>>>>> 268c9da735902c0d9e59549cf6f19e87907c48d1
